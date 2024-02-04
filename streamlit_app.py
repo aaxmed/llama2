@@ -4,7 +4,7 @@ import os
 
 # App title
 st.set_page_config(page_title="🦙💬 Ahmed's Llama 2 (LLM) Chatbot")
-    st.markdown('Welcome, thank you for taking the time to try and test my chatbot utilizing Metas LLAMA 2 LLM Model')
+st.markdown('Welcome, thank you for taking the time to try and test my chatbot utilizing Metas LLAMA 2 LLM Model')
 
 # Replicate Credentials
 with st.sidebar:
