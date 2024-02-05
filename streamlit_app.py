@@ -4,7 +4,7 @@ import os
 
 # App title
 st.set_page_config(page_title="🦙💬 Ahmed's Llama 2 (LLM) Chatbot")
-st.markdown('Welcome, thank you for taking the time to testing my chatbot utilizing Metas LLAMA 2 LLM Model')
+st.markdown('Welcome, thank you for testing my chatbot utilizing Metas LLAMA 2 LLM Model')
 
 # Replicate Credentials
 os.environ['REPLICATE_API_TOKEN'] = 'r8_WU7WeG93u6FmXN6qR4vnE53F5ejFzCW2dPD51'
